@@ -1,4 +1,4 @@
-![image](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/img/header.jpg)
+![image](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/img/header.png)
 
 ### Hi there 👋
 
