@@ -1,3 +1,5 @@
+![image](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/img/header.jpg)
+
 ### Hi there 👋
 
 <!--
