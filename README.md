@@ -17,7 +17,7 @@ http://pokebuild.xyz
 
 http://ec2-54-209-63-59.compute-1.amazonaws.com/api/v1
 
-![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/pokebuild-api.PNG?raw=true)
+![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/pokebuild_api.PNG?raw=true)
 
 <!--
 **Geoffrey-Cauchois/Geoffrey-Cauchois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
