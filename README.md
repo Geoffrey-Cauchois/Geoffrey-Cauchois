@@ -1,4 +1,4 @@
-![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/tree/main/img/header.png)
+![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/header.png?raw=true)
 
 ### Hi there 👋
 
