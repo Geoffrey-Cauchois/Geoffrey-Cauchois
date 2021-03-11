@@ -13,7 +13,7 @@
 
 ![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/pokebuild.PNG?raw=true)
 
-<a href="https://pokebuildapi.fr" target="_blank">L'api publique</a>
+<a href="http://ec2-54-209-63-59.compute-1.amazonaws.com" target="_blank">L'api publique</a>
 
 ![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/pokebuild_api.PNG?raw=true)
 
