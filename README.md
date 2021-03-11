@@ -7,7 +7,7 @@
 ## Projets :
 # Pokebuild :
 
-<a href="https://github.com/O-clock-Marty/project-pokemon-team-builder-backend" target="_blank">Le repository</a>
+<a href="https://github.com/Geoffrey-Cauchois/pokebuild-back/tree/master" target="_blank">Le repository</a>
 
 <a href="http://pokebuild.xyz" target="_blank">Le site</a>
 
