@@ -9,7 +9,7 @@
 
 <a href="https://github.com/Geoffrey-Cauchois/pokebuild-back/tree/master" target="_blank">Le repository</a>
 
-<a href="http://pokebuild.xyz" target="_blank">Le site</a>
+<a href="http://pokebuild.surge.sh/" target="_blank">Le site</a>
 
 ![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/pokebuild.PNG?raw=true)
 
