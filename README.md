@@ -9,11 +9,11 @@
 
 <a href="https://github.com/Geoffrey-Cauchois/pokebuild-back/tree/master" target="_blank">Le repository</a>
 
-<a href="http://pokebuild.surge.sh/" target="_blank">Le site</a>
+<a href="https://pokebuild.xyz/" target="_blank">Le site</a>
 
 ![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/pokebuild.PNG?raw=true)
 
-<a href="http://ec2-54-209-63-59.compute-1.amazonaws.com" target="_blank">L'api publique</a>
+<a href="https://pokebuildapi.fr" target="_blank">L'api publique</a>
 
 ![alt text](https://github.com/Geoffrey-Cauchois/Geoffrey-Cauchois/blob/main/img/pokebuild_api.PNG?raw=true)
 
